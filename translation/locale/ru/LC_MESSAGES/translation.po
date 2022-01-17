@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-10 16:47+0000\n"
+"PO-Revision-Date: 2021-12-11 13:33+0200\n"
+"Last-Translator: nikita <MacBookAir@nikita.local>\n"
+"Language-Team: Russian <gnu@d07.ru>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "✅ Language has been changed to: `{language}`."
+msgstr "✅ Язык был изменён на: `{language}`."
+
+
+msgid "⛔️ You don't have enough permissions."
+msgstr "⛔ У вас недостаточно прав."
+
+
+msgid "⛔ You are not in voice channel."
+msgstr "⛔ Вы не в голосовом чате."
+
+msgid "⛔ I've not permissions to join or speak in this voice channel."
+msgstr "⛔ У меня нет необходимых прав, чтобы присоединиться или говорить в голосовом канале."
+
+msgid "⛔ Bot was already connected to: **<#{channel_id}>**"
+msgstr "⛔ Я ранне присоединился к голосовому каналу: **<#{channel_id}>**"
+
+msgid "✅ Bot was join to: **<#{channel_id}>**"
+msgstr "✅ Я присоединился к: **<#{channel_id}>**"
+
+msgid "✅ Service has been change to:`{service}`."
+msgstr "✅ Сервис был изменён на: `{service}`."
+
+
+msgid "Dj role"
+msgstr "Д-джей роль"
+
+msgid "⛔This guild does not have dj role"
+msgstr "⛔У этого сервера нет д-джей роли."
+
+msgid "✅Dj role was updated to: {role}\nNow users only with this role can call player functions.\n"
+msgstr "✅Д-джей роль была обновлена на: {role}\nТеперь пользователи только с этой ролью смогут вызывать функции плеера.\n"
+
+msgid "✅Dj role was deleted\nNow all users can call player functions."
+msgstr "✅Д-джей роль была удалена.\nТеперь все пользователи смогут вызывать функции плеера."
+
+
+msgid "Info"
+msgstr "Информация"
+
+msgid "**Bot info**\n"
+       "> **🏰 Guilds:** {guilds}\n"
+       "> **🟢 Active guilds now:** {active_guilds}\n"
+       "> **👤 Users:** {users}\n\n"
+       "**Creators**\n"
+       "> **👑 Members:** {creators}\n"
+       "> **🛠 Support Guild:** {support_guild}\n\n"
+       "**Another**\n"
+       "> **🔋Bot online more than:** {bot_online}\n"
+       "> **🔋Bot was created at:** {bot_created}\n"
+
+msgstr "**Информация о боте**\n"
+       "> **🏰 Сервера:** {guilds}\n"
+       "> **🟢 Активные сервера в данный момент:** {active_guilds}\n"
+       "> **👤 Пользователи:** {users}\n\n"
+       "**Создатели**\n"
+       "> **👑 Участники:** {creators}\n"
+       "> **🛠 Сервер поддержки:** {support_guild}\n\n"
+       "**Другое**\n"
+       "> **🔋Бот онлайн:** {bot_online}\n"
+       "> **🔋Бот был создан:** {bot_created}\n"

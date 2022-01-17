@@ -1,0 +1,60 @@
+msgid ""
+msgstr "Project-Id-Version: PACKAGE VERSION\n"
+       "Report-Msgid-Bugs-To: \n"
+       "POT-Creation-Date: 2021-12-10 16:47+0000\n"
+       "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+       "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+       "Language-Team: LANGUAGE <LL@li.org>\n"
+       "Language: \n"
+       "MIME-Version: 1.0\n"
+       "Content-Type: text/plain; charset=UTF-8\n"
+       "Content-Transfer-Encoding: 8bit\n"
+
+msgid "✅ Language has been changed to: `{language}`."
+msgstr ""
+
+msgid "⛔️ You don't have enough permissions."
+msgstr ""
+
+msgid "⛔ You are not in voice channel."
+msgstr ""
+
+msgid "⛔ I've not permissions to join or speak in this voice channel."
+msgstr ""
+
+msgid "⛔ Bot was already connected to: **<#{channel_id}>**"
+msgstr ""
+
+msgid "✅ Bot was join to: **<#{channel_id}>**"
+msgstr ""
+
+msgid "✅ Service has been change to:`{service}`."
+msgstr ""
+
+msgid "Dj role"
+msgstr ""
+
+msgid "⛔This guild does not have dj role"
+msgstr ""
+
+msgid "✅Dj role was updated to: {role}\n"
+      "Now users only with this role can call player functions.\n"
+msgstr ""
+
+msgid "✅Dj role was deleted\nNow all users can call player functions."
+msgstr ""
+
+msgid "Info"
+msgstr ""
+
+msgid "**Bot info**\n"
+       "> **🏰 Guilds:** {guilds}\n"
+       "> **🟢 Active guilds now:** {active_guilds}\n"
+       "> **👤 Users:** {users}\n\n"
+       "**Creators**\n"
+       "> **👑 Members:** {creators}\n"
+       "> **🛠 Support Guild:** {support_guild}\n\n"
+       "**Another**\n"
+       "> **🔋Bot online more than:** {bot_online}\n"
+       "> **🔋Bot was created at:** {bot_created}\n"
+msgstr ""
