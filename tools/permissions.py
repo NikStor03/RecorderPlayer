@@ -19,7 +19,7 @@ class Permissions:
                 else:
                     return False
 
-    async def user_roll_permissions(self, inter):
+    async def user_roll_permissions(self, inter) -> bool:
         guild_db: Guilds = await Guilds.filter(id=inter.guild.id).first()
         if guild_db.dj_role_id is not None:
 
