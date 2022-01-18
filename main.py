@@ -1,7 +1,6 @@
 import os
 import configparser
 
-
 import discord
 from discord.ext import commands, tasks
 from dislash import InteractionClient
@@ -64,5 +63,6 @@ async def unload(ctx, extensions):
 for filename in os.listdir('./cgs'):
     if filename.endswith('.py'):
         bot.load_extension(f'cgs.{filename[:-3]}')
+
 
 bot.run(conf['bot']['token'])
