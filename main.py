@@ -1,6 +1,5 @@
 import os
 import configparser
-import asyncio
 
 import discord
 from discord.ext import commands, tasks
